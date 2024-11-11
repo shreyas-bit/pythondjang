@@ -1,0 +1,5 @@
+django admin
+
+usrname=shreyas
+pass=shreyas
+{% comment %} big changes made here for time stamp and comm section{% endcomment %}

@@ -1,0 +1,47 @@
+Docker Notes -
+
+container-way to package application, portable , easily shared.
+
+make development easy.
+
+where container live-
+
+container repository
+
+company wise-priavte repos
+
+public repos
+
+(doker hub) - website
+
+before container- on OS like linux and mac. error are high, preety hard.
+
+after container- do not install OS. has its is loadad image.package with all exe. run same app with 2 differ versions
+
+
+# Application Deploy  with conta - all in one package. no enviromental cofig needed on server.
+
+
+# What is container= layer of images
+mostly linux based image. small in size on bottom
+application image on top
+
+#Commands - docker run postgres
+
+docker container- actually starts appli
+container env is created
+
+docker img= the actucal package
+
+#Docker vs virtual box- applicat run on kernal layer
+
+Docker- application layer Kernal  mb speed fast 
+
+vm-has its own application layer and kernal layer gb low speed
+
+Install docker toolbox-possible for yor hosts to run difeer docker image
+
+
+#Docker Installation-
+
+download docker hub.com
